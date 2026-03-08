@@ -184,6 +184,7 @@ ________________________________________
 
 •	Microsoft Power BI Desktop
 •	Power BI Cloud Service
+
 ✅ Visualizations Used:
 
 •	Table
